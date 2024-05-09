@@ -8,7 +8,7 @@ import pandas as pd
 from util import set_background, write_csv
 import uuid
 import os
-from streamlit_webrtc import webrtc_streamer
+# from streamlit_webrtc import webrtc_streamer
 import av
 
 # set_background("./imgs/background_img.webp")
